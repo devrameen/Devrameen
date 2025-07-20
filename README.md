@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on **full stack projects using MERN & Laravel**
 - 🌱 I’m constantly learning **modern web technologies**
 - 👩‍💻 I’ve completed certifications in **Full Stack Web Development (FWSD)** and **CIT by NAVTTC**
-- 💼 I have hands-on experience in **private school teaching** and **nursing assistance**
-- 📫 How to reach me: `rameenmeer.work@gmail.com`
+- 💼 I have hands-on experience in **Information Technology**
+- 📫 How to reach me: `rameenmeer14@gmail.com`
 - ⚡ Fun fact: I love clean UI and minimal design!
 
 ---
@@ -43,7 +43,7 @@ Here are some projects you can check:
 - 👩‍🎓 **Student Admission System** – PHP + MySQL
 - 💼 **Portfolio Website** – HTML + CSS + JavaScript
 
-> 📍 *Live links and repo links can be added here*
+> 
 
 ---
 
@@ -58,8 +58,8 @@ Here are some projects you can check:
 
 ### 🤝 Let's Connect
 
-- 💌 Email: `rameenmeer.work@gmail.com`
-- 💼 LinkedIn: [Rameen Meer](https://www.linkedin.com/in/devrameen)
+- 💌 Email: `rameenmeer14@gmail.com`
+- 💼 LinkedIn: [Rameen Mir](https://www.linkedin.com/in/rameen-mir)
 - 💻 GitHub: [@devrameen](https://github.com/devrameen)
 
 ---
