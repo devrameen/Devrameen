@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rameen Meer</h1>
+<h1 align="center">Hi there 👋, I'm Rameen Mir</h1>
 <h3 align="center">A Passionate Full Stack Web Developer & Tech Enthusiast from Pakistan</h3>
 
 <p align="center">
