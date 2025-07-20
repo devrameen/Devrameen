@@ -59,7 +59,7 @@ Here are some projects you can check:
 ### 🤝 Let's Connect
 
 - 💌 Email: `rameenmeer14@gmail.com`
-- 💼 LinkedIn: [Rameen Mir](https://www.linkedin.com/in/rameen-mir)
+- 💼 LinkedIn: [Rameen Meer](https://www.linkedin.com/in/rameen-meer)
 - 💻 GitHub: [@devrameen](https://github.com/devrameen)
 
 ---
